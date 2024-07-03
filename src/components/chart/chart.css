@@ -1,0 +1,32 @@
+.chart {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    
+}
+
+.chart-title {
+    margin: 10px 0;
+    color: white;
+}
+
+.btn {
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: rgb(203, 3, 190);
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recharts-surface {
+    background-color: white;
+    border-radius: 7px;
+}
